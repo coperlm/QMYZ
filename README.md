@@ -51,8 +51,8 @@ python qm_cli.py -u "http://your-login-url" -i 12 -c "qmyz/12.csv" -n 100
 # 使用 `fight` 进行自动AI对战并爬取新题目(需要在文件中填写参数)
 python fight.py
 
-# 使用 `qmauto` 进行交互式答题
-python qmauto.py
+# 使用 `qm_auto` 进行交互式答题
+python qm_auto.py
 ```
 
 ## 👨‍💻 作者
